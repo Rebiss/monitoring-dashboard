@@ -66,7 +66,7 @@ const routes = [
   // { path: '/buttons/button-dropdowns', name: 'Dropdowns', component: ButtonDropdowns },
   // { path: '/buttons/button-groups', name: 'Button Groups', component: ButtonGroups },
   // { path: '/buttons/brand-buttons', name: 'Brand Buttons', component: BrandButtons },
-  // { path: '/charts', name: 'Charts', component: Charts },
+  { path: '/charts', name: 'Charts', component: Charts },
   // { path: '/icons', exact: true, name: 'Icons', component: CoreUIIcons },
   // { path: '/icons/coreui-icons', name: 'CoreUI Icons', component: CoreUIIcons },
   // { path: '/icons/flags', name: 'Flags', component: Flags },
